@@ -22,3 +22,11 @@
   <img src="ChatGPT Image Jun 29, 2026, 09_27_19 PM.png" width="400" height="300" />
   <img src="class-diagram.png" width="400" height="300" />
 </p>
+
+# Sequence Diagram 
+
+a type of UML diagram that shows how objects interact with each other in a specific order over time
+
+<p align="center">
+  <img src="Untitled-2024-08-18-0810.excalidraw.png" width="800"/>
+</p>
