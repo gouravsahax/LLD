@@ -17,6 +17,8 @@
 1. Association: Loose relationship where separate objects interact but have independent lifecycles (e.g., Teacher and Student).
 2. Aggregation: A weak "Has-A" relationship where the child object can exist if the parent is destroyed (e.g., Department and Professor).
 3. Composition: A strong "Part-Of" relationship where the child object is destroyed if the parent is destroyed (e.g., House and Room).
-![alt text](<ChatGPT Image Jun 29, 2026, 09_27_19 PM.png>)
-![alt text](class-diagram.png)
 
+<p align="center">
+  <img src="ChatGPT Image Jun 29, 2026, 09_27_19 PM.png" width="400" height="300" />
+  <img src="class-diagram.png" width="400" height="300" />
+</p>
