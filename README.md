@@ -120,3 +120,11 @@ SOLID is a set of five object-oriented design principles that make software modu
        UserService(Database* database) : db(database) {}
    };
    ```
+
+### Creational Patterns
+
+1. Simple Factory Method (mostly used factory method) : A factory is a helper that makes the right kind of object for you so you don't have to decide which one to create.
+
+2. Builder : A builder is a helper that lets you create a complex object step by step without worrying about the order or messy construction details.
+
+3. Singleton : Singleton ensures only one instance of a class exists. Use it when you need exactly one shared resource like a configuration manager, connection pool, or logger.
